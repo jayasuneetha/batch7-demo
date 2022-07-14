@@ -1,6 +1,6 @@
 hello
 hi every one
-good morning to some
+good morning to all
 welcome to the devops batches
-all students
+all batches
 //End of the main method
